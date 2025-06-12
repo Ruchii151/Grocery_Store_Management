@@ -27,18 +27,18 @@ Customers, Orders, OrderDetails, Products, Categories, Employees, Suppliers
 -- Covers KPIs like total revenue, top customers, average order value, sales by category, and more.
 
 -- Technologies Used
-# SQL – for database creation, querying, and analysis
+ SQL – for database creation, querying, and analysis
 
-# MySQL – as the database management system
+ MySQL – as the database management system
 
-# ER Diagram – to show table relationships
+ ER Diagram – to show table relationships
 
 -- Project Objectives
 Simulate real-world grocery store operations through structured data.
 
-# Extract actionable business insights using SQL queries.
+ Extract actionable business insights using SQL queries.
 
-# Support efficient decision-making with performance metrics and trends.
+ Support efficient decision-making with performance metrics and trends.
 
 -- Insights Answered
 1. How many unique customers placed orders?
@@ -52,11 +52,11 @@ Simulate real-world grocery store operations through structured data.
 5. Who are the most productive employees?
 
 -- Challenges Faced
-# Complex joins between multiple tables
+1. Complex joins between multiple tables
 
-# Ensuring foreign key integrity
+2. Ensuring foreign key integrity
 
-# Aggregating data across time formats
+3. Aggregating data across time formats
 
-# Handling VARCHAR-formatted dates for trend analysis
+4. Handling VARCHAR-formatted dates for trend analysis
 
