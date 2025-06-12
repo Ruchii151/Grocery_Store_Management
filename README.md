@@ -12,51 +12,51 @@ Customers, Orders, OrderDetails, Products, Categories, Employees, Suppliers
 
 -- Analytical queries grouped by:
 
-Customer Insights
+1. Customer Insights
 
-Product Performance
+2. Product Performance
 
-Sales & Order Trends
+3. Sales & Order Trends
 
-Supplier Contribution
+4. Supplier Contribution
 
-Employee Performance
+5. Employee Performance
 
-Order Details Deep Dive
+6. Order Details Deep Dive
 
 -- Covers KPIs like total revenue, top customers, average order value, sales by category, and more.
 
 -- Technologies Used
-SQL – for database creation, querying, and analysis
+# SQL – for database creation, querying, and analysis
 
-MySQL – as the database management system
+# MySQL – as the database management system
 
-ER Diagram – to show table relationships
+# ER Diagram – to show table relationships
 
 -- Project Objectives
 Simulate real-world grocery store operations through structured data.
 
-Extract actionable business insights using SQL queries.
+# Extract actionable business insights using SQL queries.
 
-Support efficient decision-making with performance metrics and trends.
+# Support efficient decision-making with performance metrics and trends.
 
 -- Insights Answered
-How many unique customers placed orders?
+1. How many unique customers placed orders?
 
-Which products generated the most revenue?
+2. Which products generated the most revenue?
 
-What are the monthly sales trends?
+3. What are the monthly sales trends?
 
-Which supplier is most valuable?
+4. Which supplier is most valuable?
 
-Who are the most productive employees?
+5. Who are the most productive employees?
 
 -- Challenges Faced
-Complex joins between multiple tables
+# Complex joins between multiple tables
 
-Ensuring foreign key integrity
+# Ensuring foreign key integrity
 
-Aggregating data across time formats
+# Aggregating data across time formats
 
-Handling VARCHAR-formatted dates for trend analysis
+# Handling VARCHAR-formatted dates for trend analysis
 
